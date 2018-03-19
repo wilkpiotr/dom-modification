@@ -5,7 +5,8 @@ module.exports = {
     a: './src/a.js',
     b: './src/b.js',
     c: './src/c.js',
-    a0: './src/a0.js'
+    a0: './src/a0.js',
+    d: './src/d.js'
   },
   output: {
     path: path.resolve(__dirname, 'dist'),
