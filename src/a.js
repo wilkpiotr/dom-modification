@@ -73,9 +73,6 @@ window.a5 = () => {
     })
 }
 
-a5();
-
-
 window.$a5 = () => {
     $('a:last').attr('data-paid','true');
     
